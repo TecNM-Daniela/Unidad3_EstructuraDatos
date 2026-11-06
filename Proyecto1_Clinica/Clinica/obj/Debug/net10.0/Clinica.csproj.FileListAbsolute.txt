@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\bin\Debug\net10.0\Clinica.exe
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\bin\Debug\net10.0\Clinica.deps.json
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\bin\Debug\net10.0\Clinica.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\bin\Debug\net10.0\Clinica.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\bin\Debug\net10.0\Clinica.pdb
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\refint\Clinica.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.pdb
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\Clinica.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\Proyecto1_Clinica\Clinica\obj\Debug\net10.0\ref\Clinica.dll
