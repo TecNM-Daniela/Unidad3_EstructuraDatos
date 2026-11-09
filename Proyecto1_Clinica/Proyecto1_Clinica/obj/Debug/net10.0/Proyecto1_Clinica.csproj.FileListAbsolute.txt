@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\bin\Debug\net10.0\Proyecto1_Clinica.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\bin\Debug\net10.0\Proyecto1_Clinica.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\bin\Debug\net10.0\Proyecto1_Clinica.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\bin\Debug\net10.0\Proyecto1_Clinica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\bin\Debug\net10.0\Proyecto1_Clinica.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\refint\Proyecto1_Clinica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto1_Clinica.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\ref\Proyecto1_Clinica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto1_Clinica\Proyecto1_Clinica\obj\Debug\net10.0\Proyecto.D054EE1A.Up2Date
