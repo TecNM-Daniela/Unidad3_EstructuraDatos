@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\bin\Debug\net10.0\Proyecto3_SimuladorLlamada.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\bin\Debug\net10.0\Proyecto3_SimuladorLlamada.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\bin\Debug\net10.0\Proyecto3_SimuladorLlamada.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\bin\Debug\net10.0\Proyecto3_SimuladorLlamada.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\bin\Debug\net10.0\Proyecto3_SimuladorLlamada.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\refint\Proyecto3_SimuladorLlamada.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto3_SimuladorLlamada.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\ref\Proyecto3_SimuladorLlamada.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto3_SimuladorLlamada\Proyecto3_SimuladorLlamada\obj\Debug\net10.0\Proyecto.12DE2752.Up2Date
