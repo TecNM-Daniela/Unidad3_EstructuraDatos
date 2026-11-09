@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\bin\Debug\net10.0\Proyecto_2_Restaurante.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\bin\Debug\net10.0\Proyecto_2_Restaurante.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\bin\Debug\net10.0\Proyecto_2_Restaurante.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\bin\Debug\net10.0\Proyecto_2_Restaurante.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\bin\Debug\net10.0\Proyecto_2_Restaurante.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\refint\Proyecto_2_Restaurante.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto_2_Restaurante.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\ref\Proyecto_2_Restaurante.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto_2_Restaurante\Proyecto_2_Restaurante\obj\Debug\net10.0\Proyecto.27BC96F4.Up2Date
