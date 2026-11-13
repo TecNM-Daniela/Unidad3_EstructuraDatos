@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\bin\Debug\net10.0\Proyecto5_Navegador.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\bin\Debug\net10.0\Proyecto5_Navegador.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\bin\Debug\net10.0\Proyecto5_Navegador.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\bin\Debug\net10.0\Proyecto5_Navegador.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\bin\Debug\net10.0\Proyecto5_Navegador.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\refint\Proyecto5_Navegador.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto5_Navegador.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\ref\Proyecto5_Navegador.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto5_Navegador\Proyecto5_Navegador\obj\Debug\net10.0\Proyecto.F7693931.Up2Date
