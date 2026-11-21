@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\bin\Debug\net10.0\Proyecto7_Musica.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\bin\Debug\net10.0\Proyecto7_Musica.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\bin\Debug\net10.0\Proyecto7_Musica.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\bin\Debug\net10.0\Proyecto7_Musica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\bin\Debug\net10.0\Proyecto7_Musica.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\refint\Proyecto7_Musica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto7_Musica.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\ref\Proyecto7_Musica.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto7_Musica\Proyecto7_Musica\obj\Debug\net10.0\Proyecto.389E08EC.Up2Date
