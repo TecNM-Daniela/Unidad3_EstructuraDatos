@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\bin\Debug\net10.0\Proyecto8_AtencionBanco.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\bin\Debug\net10.0\Proyecto8_AtencionBanco.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\bin\Debug\net10.0\Proyecto8_AtencionBanco.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\bin\Debug\net10.0\Proyecto8_AtencionBanco.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\bin\Debug\net10.0\Proyecto8_AtencionBanco.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\refint\Proyecto8_AtencionBanco.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto8_AtencionBanco.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\ref\Proyecto8_AtencionBanco.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto8_AtencionBanco\Proyecto8_AtencionBanco\obj\Debug\net10.0\Proyecto.33139E8F.Up2Date
