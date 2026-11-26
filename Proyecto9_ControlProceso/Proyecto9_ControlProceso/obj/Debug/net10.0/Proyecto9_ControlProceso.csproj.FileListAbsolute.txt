@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\bin\Debug\net10.0\Proyecto9_ControlProceso.exe
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\bin\Debug\net10.0\Proyecto9_ControlProceso.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\bin\Debug\net10.0\Proyecto9_ControlProceso.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\bin\Debug\net10.0\Proyecto9_ControlProceso.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\bin\Debug\net10.0\Proyecto9_ControlProceso.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.sourcelink.json
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\refint\Proyecto9_ControlProceso.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto9_ControlProceso.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\ref\Proyecto9_ControlProceso.dll
+C:\Users\isabe\Desktop\Estructura de datos\Proyecto9_ControlProceso\Proyecto9_ControlProceso\obj\Debug\net10.0\Proyecto.CF52DDAD.Up2Date
